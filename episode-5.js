@@ -12,6 +12,7 @@ async function run() {
         elements.map(element => ({
             src: element.src,
             alt: element.alt,
+            
         }))
     );
     
